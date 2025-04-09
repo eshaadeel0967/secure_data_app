@@ -1,3 +1,5 @@
-haslib
 streamlit
 cryptography
+pip
+setuptools
+wheel
